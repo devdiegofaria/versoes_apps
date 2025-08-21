@@ -3,8 +3,37 @@
     "versao_disponivel": "5.1.7",
     "changelog": "Correções de bugs e melhorias de desempenho. "
   },
-  "app_calctrader": {
-    "versao_disponivel": "2.5.0",
+  "app_Anumi": {
+    "versao_disponivel": "2.0.0",
+    "changelog": "Melhoria de Perfomance"
+  },
+  "app_PalpiteBixo": {
+    "versao_disponivel": "1.2.0",
+    "changelog": "Melhoria de Perfomance"
+  },
+  "app_ChoraBebe": {
+    "versao_disponivel": "1.7.0",
+    "changelog": "Melhoria de Perfomance"
+  },
+  "app_ManualBebe": {
+    "versao_disponivel": "1.0.0",
+    "changelog": "Melhoria de Perfomance"
+  },
+  "app_DayTraderIR": {
+    "versao_disponivel": "2.1.0",
+    "changelog": "Melhoria de Perfomance"
+  },
+  "app_CalcTrader": {
+    "versao_disponivel": "9.1.3",
     "changelog": "Novo recurso de notificações push."
-  }
+  },
+  "app_Numerela": {
+    "versao_disponivel": "2.0.0",
+    "changelog": "Melhoria de Perfomance"
+  },
+  "app_PrecoCerto": {
+    "versao_disponivel": "1.0.0",
+    "changelog": "Melhoria de Perfomance"
+  }  
 }
+
