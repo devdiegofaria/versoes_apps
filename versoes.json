@@ -8,7 +8,7 @@
     "changelog": "Correções de bugs e melhorias de desempenho."
   },
   "app_Anumi": {
-    "versao_disponivel": "1",
+    "versao_disponivel": "1.0.2",
     "changelog": "Melhoria de Perfomance"
   },
   "app_PalpiteBixo": {
@@ -40,6 +40,7 @@
     "changelog": "Melhoria de Perfomance"
   }  
 }
+
 
 
 
