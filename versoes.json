@@ -20,7 +20,7 @@
     "changelog": "Melhoria de Perfomance"
   },
   "app_ManualBebe": {
-    "versao_disponivel": "1.0.0",
+    "versao_disponivel": "1.1.2",
     "changelog": "Melhoria de Perfomance"
   },
   "app_DayTraderIR": {
@@ -40,6 +40,7 @@
     "changelog": "Melhoria de Perfomance"
   }  
 }
+
 
 
 
