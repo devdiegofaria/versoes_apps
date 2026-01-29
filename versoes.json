@@ -4,7 +4,7 @@
     "changelog": "Correções de bugs e melhorias de desempenho. "
   },
   "app_Numa": {
-    "versao_disponivel": "5.1.9",
+    "versao_disponivel": "5.2.0",
     "changelog": "Correções de bugs e melhorias de desempenho."
   },
   "app_Anumi": {
@@ -40,6 +40,7 @@
     "changelog": "Melhoria de Perfomance"
   }  
 }
+
 
 
 
