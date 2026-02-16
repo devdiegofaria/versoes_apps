@@ -8,7 +8,7 @@
     "changelog": "Correções de bugs e melhorias de desempenho."
   },
   "app_Numa_oficial": {
-    "versao_disponivel": "1.0.0",
+    "versao_disponivel": "1.1.1",
     "changelog": "Correções de bugs e melhorias de desempenho."
   },
   "app_Anumi": {
@@ -44,6 +44,7 @@
     "changelog": "Melhoria de Perfomance"
   }  
 }
+
 
 
 
