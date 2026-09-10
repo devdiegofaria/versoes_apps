@@ -9,7 +9,8 @@
   },
   "app_Numa_oficial": {
     "versao_disponivel": "2.1.1",
-    "changelog": "Correções de bugs e melhorias de desempenho."
+    "changelog": "Correções de bugs e melhorias de desempenho.",
+    "comunidade": false
   },
   "app_Anumi": {
     "versao_disponivel": "2.0.0",
